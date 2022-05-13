@@ -13,10 +13,10 @@ namespace Raylib::Actors
     class Player
     {
     public:
-        Vector2 pos, size;
+        Vector2 pos;
 
     private:
-        Vector2 vel;
+        Vector2 size, vel;
         const int MOVE_SPEED, JUMP_FORCE;
         bool grounded;
 

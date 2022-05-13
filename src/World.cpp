@@ -1,8 +1,8 @@
 #include <iostream>
-#include "./header/World.hpp"
-#include "./header/Player.hpp"
-#include "./header/Platform.hpp"
-#include "./header/Window.hpp"
+#include "./headers/World.hpp"
+#include "./headers/Player.hpp"
+#include "./headers/Platform.hpp"
+#include "./headers/Window.hpp"
 
 namespace Raylib::World
 {

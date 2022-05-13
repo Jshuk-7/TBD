@@ -1,5 +1,5 @@
 #include <stdarg.h>
-#include "./header/Platform.hpp"
+#include "./headers/Platform.hpp"
 
 namespace Raylib::GameObject
 {
